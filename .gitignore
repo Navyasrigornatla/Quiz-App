@@ -1,0 +1,25 @@
+# Java bytecode
+*.class
+*.jar
+*.war
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# IDE - Eclipse
+bin/
+.project
+.classpath
+
+# IDE - VS Code
+.vscode/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Build tools
+target/
+build/
